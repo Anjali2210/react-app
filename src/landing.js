@@ -6,7 +6,7 @@ const Landing = () => (
     <div className='landing'>
     <h1>ssvideo</h1>
     <input type='text' placeholder='search' />
-    <Link to='/search'>or Browse All</Link>
+    <Link to='/search'>or Browse Allfdfdf</Link>
   </div>
 );
 
